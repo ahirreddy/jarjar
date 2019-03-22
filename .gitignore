@@ -1,4 +1,5 @@
 build
 .*.swp
+.*.swpp
 .gradle
 .nb-gradle
